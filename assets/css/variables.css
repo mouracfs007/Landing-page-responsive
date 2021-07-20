@@ -1,0 +1,21 @@
+/*  Criação de variáveis no CSS
+    1-: adicionar duas vezes o traço ' -- ' antes da palavra  
+    2- atribuir algum valor a variável criada. Por exemplo
+        ex.: --corAzul: blue;
+*/
+:root  {
+    --primary-color: #0A1128;
+    --white-text: #FFFFFF;
+    --light-gray-color:  #EEEEEE;
+    --line-menu-crimson: crimson;
+    --bg-color: #FFFFFF;
+    --gap: 3rem;
+
+  --white-color: #ffffff;
+  --dark-gray-color: #2e3038;
+
+
+  --spacings-small: 2rem;
+  --spacings-large: 5rem;
+  
+}
