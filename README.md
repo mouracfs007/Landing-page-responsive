@@ -8,4 +8,4 @@ O objetivo dessa página foi treinar o que está em alta demanda no mercado, as 
 
 link para página : https://mouracfs007.github.io/Landing-page-responsive/
 
-## Aproveita também e teste no celular
+## Aproveite também e teste no celular
